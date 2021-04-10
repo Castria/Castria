@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Castria.
+- 👀 I’m interested in dabbling in all things code, seeing what clicks and diving in deeper from there.
+- 🌱 I’m currently learning Laravel.
+- 💞️ I’m looking to collaborate on forks of good but abandoned browser plugins.
